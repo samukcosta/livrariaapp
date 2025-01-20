@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.LivrariaApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#4FA095</item>
+        <item name="colorPrimaryDark">#153462</item>
+        <item name="colorAccent">#BAD1C2</item>
+        <item name="android:windowBackground">#4FA095</item>
+    </style>
+</resources>
